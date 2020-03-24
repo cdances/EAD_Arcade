@@ -9,3 +9,7 @@ MemoryGame::MemoryGame() : Game()
     cout << "Welcome to the Memory Game" << endl;
     cout << "Ready to play?" << endl;
 }
+
+void MemoryGame::play() {
+    cout << "Playing the Memory Game" << std::endl;
+}
