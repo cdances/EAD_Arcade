@@ -11,4 +11,6 @@ int main()
     game = arcade.getGame();
 
     cout << endl << "You had asked for a(n)" << game->getType() << endl;
+
+    game->play();
 }
