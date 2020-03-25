@@ -12,6 +12,8 @@ protected:
 public:
     Game();
     char* getType();
+    virtual void play() = 0;
+    ~Game() {};
 };
 
 #endif
