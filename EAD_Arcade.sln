@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EAD_Arcade", "EAD_Arcade\EA
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EAD_Arcade_Lib", "EAD_Arcade_Lib\EAD_Arcade_Lib.vcxproj", "{E6FCF099-74ED-44C8-9BFF-C265C81DC9BF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EAD_Aracde_Lib_Unit_Tests", "EAD_Aracde_Lib_Unit_Tests\EAD_Aracde_Lib_Unit_Tests.vcxproj", "{F71D8D0B-B8E3-4026-971F-3E7AB13C9CC0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EAD_Arcade_Lib_Unit_Tests", "EAD_Arcade_Lib_Unit_Tests\EAD_Arcade_Lib_Unit_Tests.vcxproj", "{F71D8D0B-B8E3-4026-971F-3E7AB13C9CC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
