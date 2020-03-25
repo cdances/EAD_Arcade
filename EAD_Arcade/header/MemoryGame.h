@@ -10,6 +10,7 @@ class MemoryGame : public Game
 {
 public:
     MemoryGame();
+    void play();
 };
 
 #endif

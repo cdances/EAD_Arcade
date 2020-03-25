@@ -17,9 +17,11 @@ Game* GameFactory::getGame()
     switch (choice)
     {
     case 1:
-        return new WhackAMole;
+        return new WhackAMole();
+        break;
     case 2:
-        return new MemoryGame;
+        return new MemoryGame();
+        break;
     default:
         cout << "Invalid Selection" << endl;
         return NULL;

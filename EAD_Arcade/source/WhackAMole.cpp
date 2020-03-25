@@ -9,3 +9,8 @@ WhackAMole::WhackAMole() : Game()
     cout << "Welcome to Whack-A-Mole" << endl;
     cout << "Ready to play?" << endl;
 }
+
+void WhackAMole::play() {
+    cout << "Playing the Memory Game" << std::endl;
+}
+

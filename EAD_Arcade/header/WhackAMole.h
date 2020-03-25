@@ -9,6 +9,7 @@ class WhackAMole : public Game
 {
 public:
     WhackAMole();
+    void play();
 };
 
 #endif
